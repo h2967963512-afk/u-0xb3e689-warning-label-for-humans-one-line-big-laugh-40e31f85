@@ -9,6 +9,8 @@ Python 3.13, standard library only, no network.
 # behaviours, and the laugh lands in the last few words — insisting
 # it is fine while actively falling apart. 155 characters, inside
 # the 160-character gate, one line, one idea, no filler.
+# Revision note: re-read the gate after running; 155 characters,
+# one line, no trailing newline.
 import os
 
 TEXT = (
